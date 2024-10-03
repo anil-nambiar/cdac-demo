@@ -1,1 +1,2 @@
 This is line 1 of localfile.txt
+This is line 2 to practice git stash
